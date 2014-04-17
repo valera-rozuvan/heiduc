@@ -103,7 +103,7 @@ the URL.
 General information
 -------------------
 
-`heiduc` is an Open Source project covered by the GNU General Public
+[heiduc](https://github.com/valera-rozuvan/heiduc) is an Open Source project covered by the GNU General Public
 License version 2. It was originally written by
 <a href="http://valera.rozuvan.net/">Valera Rozuvan</a>.
 
