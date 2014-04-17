@@ -13,6 +13,8 @@ applications:
 
 - [youtube-dl](http://rg3.github.io/youtube-dl): a small command-line
 program to download videos from YouTube.com and a few more sites.
+- [FFmpeg](http://www.ffmpeg.org): a complete, cross-platform solution
+to record, convert and stream audio and video.
 - [LAME](http://lame.sourceforge.net): LAME is a high quality MPEG
 Audio Layer III (MP3) encoder.
 
@@ -32,6 +34,21 @@ If there were no errors, try running:
 The above command should print something along the lines of:
 
     2014.04.13
+
+Installing FFmpeg
+-----------------
+
+On a Debian based system:
+
+    sudo apt-get install ffmpeg
+
+If there were no errors, try running:
+
+    ffmpeg -version
+
+The above command should print something along the lines of:
+
+    ffmpeg version 0.8.10-6:0.8.10-1, Copyright (c) 2000-2013 the Libav developers
 
 Installing LAME
 ---------------
@@ -86,7 +103,7 @@ the URL.
 General information
 -------------------
 
-Git is an Open Source project covered by the GNU General Public
+`heiduc` is an Open Source project covered by the GNU General Public
 License version 2. It was originally written by
 <a href="http://valera.rozuvan.net/">Valera Rozuvan</a>.
 
