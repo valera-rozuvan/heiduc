@@ -36,9 +36,10 @@ The above command should print something along the lines of:
 Installing LAME
 ---------------
 
-If you are using Debian, make sure you have non-free, and contrib
-enabled in your `/etc/apt/sources.list` file. On a Debian based
-system:
+If you are using Debian, make sure you have `non-free`, and `contrib`
+archive areas enabled in your `/etc/apt/sources.list`. If you are not
+familiar with Debian archive areas, please see
+[Debian Policy Manual Chapter 2 - The Debian Archive](https://www.debian.org/doc/debian-policy/ch-archive.html). On a Debian based system:
 
     sudo apt-get install lame
 
@@ -55,6 +56,7 @@ Installing heiduc
 
 Clone this repository anywhere you like:
 
+    sudo apt-get install git
     cd SOME_DIRECTORY
     git clone https://github.com/valera-rozuvan/heiduc.git
 
