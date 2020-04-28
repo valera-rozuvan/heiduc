@@ -109,6 +109,6 @@ The main thing to note is that each URL contains a sub-string like `v=4iF4Rn2b4T
 
 ## General information
 
-[heiduc](https://github.com/valera-rozuvan/heiduc) is an Open Source project covered by the GNU General Public License version 2. It was originally written by <a href="http://valera.rozuvan.net/">Valera Rozuvan</a>.
+[heiduc](https://github.com/valera-rozuvan/heiduc) is an Open Source project covered by the GNU General Public License version 2. It was originally written by <a href="https://valera.rozuvan.net/">Valera Rozuvan</a>.
 
 Please read the file [LICENSE](LICENSE) for the full license information.
