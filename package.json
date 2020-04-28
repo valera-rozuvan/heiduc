@@ -1,0 +1,23 @@
+{
+  "name": "heiduc",
+  "version": "0.0.1",
+  "description": "Node.js YouTube batch audio downloader.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo 'Not implemented.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valera-rozuvan/heiduc.git"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "author": "Valera Rozuvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valera-rozuvan/heiduc/issues"
+  },
+  "homepage": "https://github.com/valera-rozuvan/heiduc#readme",
+  "devDependencies": {}
+}

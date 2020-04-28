@@ -1,3 +1,11 @@
+# PROJECT DEPRECATED
+
+Initial idea for this project was born a long time ago. But I never did realize it. Since then, many YouTube-related projects have sprung up here on GitHub. I also don't have a strong need for this. So - I decided to not proceed with implementation, and archive this project.
+
+For historical purpose, I am leaving everything below as it was :)
+
+----------------------------------------------
+
 # heiduc
 
 Node.js YouTube batch audio downloader.
